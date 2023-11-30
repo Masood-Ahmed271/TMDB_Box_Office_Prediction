@@ -22,6 +22,11 @@ In this project, we're presented with metadata on over 7,000 past films from The
 # Main File:
 
 [TMDB_Box_Office_Prediction](TMDbMovieBoxOfficePredictionModel.ipynb)
+
+# Kaggle Score
+
+![Kaggle Score](https://github.com/Masood-Ahmed271/TMDB_Box_Office_Prediction/assets/63158543/ea3f54cd-dab6-4ee2-a06e-33de9282099c)
+
  
 # Feedback
 
