@@ -1,4 +1,4 @@
-# TMDB_Box_Office_Prediction
+I# TMDB_Box_Office_Prediction
 
 ## Team/Group:
 ---
@@ -30,7 +30,7 @@ In this project, we're presented with metadata on over 7,000 past films from The
  
 # Feedback
 
-Pull requests are welcome. For feedback and suggestions, please reach out to Group 21.
+Pull requests are welcome. For feedback and suggestions, please reach out to Group 3.
 
 # License
 FITE3010 Group 3 2023 © The University of Hong Kong
